@@ -1,0 +1,18 @@
+Nama: Adella Widiyanti
+NPM:20312146
+Kode Soal:B
+
+1. Sistem apa yang anda kembangkan?
+Jawab:Sistem Pelayanan Klinik Bersalin
+
+2. Permasalahan apa yang terjadi pada studi kasus anda?
+Jawab:kurang efektifnya operasional klinik dan pengelolaan data
+
+3. Apa solusi yang dapat anda berikan pada permasalahan tersebut?
+Jawab:membuat sistem pelayanan klinik bersalin berbasis website untuk memudahkan pasien dan staff
+
+4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
+Jawab:efisiensi dan efektifitas operasional serta pengelolaan data
+
+5. Apa saja kendala dan resiko yang mungkin akan anda hadapi selama pengembangan sistem?
+Jawab:kurangnya waktu dalam pengembangan sistem, keterbatasan biaya pengembangan sistem
